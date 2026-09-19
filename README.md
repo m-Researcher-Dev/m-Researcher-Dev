@@ -1,125 +1,257 @@
 <div align="center">
 
-<!-- ===== ANIMATED HEADER ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Python+Backend+Developer;Security+Enthusiast;AI+%26+Automation+Engineer" alt="Typing SVG" />
+# `m-Researcher-Dev`
 
-# Mohammad Javad Izadi
+### Python Backend Developer · Security · Automation · AI
 
-**Python Backend Developer | Security Enthusiast | AI & Automation**
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│   > Mohammad Javad Izadi                                     │
+│                                                              │
+│   $ role                                                     │
+│   > Python Backend Developer                                 │
+│   > Security Enthusiast · AI & Automation                    │
+│                                                              │
+│   $ status                                                   │
+│   > [■] Building · Learning · Shipping                       │
+│                                                              │
+│   $ uptime                                                   │
+│   > Always learning                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=m-Researcher-Dev&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/m-Researcher-Dev?label=Followers&style=flat-square&color=0E75B6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/m-Researcher-Dev?label=Stars&style=flat-square&color=0E75B6" alt="Stars" />
-</p>
+`< building secure systems & automating the boring stuff />`
+
+[![GitHub](https://img.shields.io/badge/GitHub-m--Researcher--Dev-181717?style=flat-square&logo=github)](https://github.com/m-Researcher-Dev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadjavadizadi86@gmail.com)
+[![Location](https://img.shields.io/badge/Zarand-Iran-58A6FF?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📊 Live GitHub Analytics
+## `$ cat about.md`
+
+I'm a Python developer focused on:
+
+- Backend systems
+- Automation
+- Network & security
+- AI / RAG systems
+- Practical software engineering
+
+I prefer building systems from the ground up, understanding how they work,
+and turning repetitive or complex tasks into reliable software.
+
+---
+
+## `$ tree ./achievements`
+
+```text
+achievements/
+├── 🥉 Young Khwarizmi
+│   └── National Rank 3 · Computer · 2025
+│
+└── 🥇 Young Khwarizmi
+    └── Provincial Rank 1 · 2025
+```
+
+---
+
+## `$ ls ./projects`
+
+### 🥇 Nasyar — Automated Windows Software Installer
+
+```text
+Python · Flask · Selenium · Pywinauto · AI
+```
+
+Automates software discovery, downloading and installation on Windows
+with a Persian interface. **88% reduction in install time.**
+
+---
+
+### 🥈 CMDX — Terminal Emulator + AI Assistant
+
+```text
+Python · Flask · JavaScript · jQuery · OpenAI API
+```
+
+A terminal-style web application with real command execution and
+an integrated AI assistant.
+
+---
+
+### 🤖 Bale Chat Bot — AI Chat Bot + Web Administration
+
+```text
+Python · Flask · SQLite · OpenAI API
+```
+
+→ [Repository](https://github.com/m-Researcher-Dev/bale-chat-bot)
+
+---
+
+### 🔍 Port Scanner — Socket-based Network Scanner
+
+```text
+Python · Socket Programming
+```
+
+→ [Repository](https://github.com/m-Researcher-Dev/port-scanner)
+
+---
+
+### 🕸️ Freelance Jobs Scraper — Automated Job Listing Collector
+
+```text
+Python · Selenium · BeautifulSoup
+```
+
+→ [Repository](https://github.com/m-Researcher-Dev/web-scraper-for-freelance-jobs)
+
+---
+
+## `$ cat stack.txt`
+
+```text
+Backend
+├── Python
+├── Flask
+├── FastAPI
+└── SQLite
+
+Security
+├── Network+
+├── LPIC-1
+├── Secure Coding
+└── Network Programming
+
+Automation
+├── Selenium
+├── PyAutoGUI
+├── Pywinauto
+└── Socket Programming
+
+AI
+├── LLM APIs
+├── RAG
+└── AI Automation
+```
+
+---
+
+## `$ ./github --live`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-Researcher-Dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0E75B6&icon_color=0E75B6" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=m-Researcher-Dev&theme=github-dark-blue&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=m-Researcher-Dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Researcher-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=0E75B6" alt="Top Languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-Researcher-Dev&theme=github-compact&hide_border=true&area=true&color=0E75B6&line=0E75B6&point=FFFFFF" alt="Activity Graph" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=m-Researcher-Dev&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies" />
+<img src="https://streak-stats.demolab.com/?user=m-Researcher-Dev&theme=github-dark-blue&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-## About Me
-
-Python developer focused on backend and cybersecurity. Designer and builder of backend systems with Flask, REST API, and SQLite. Skilled in system automation and web scraping with Selenium and BeautifulSoup. Familiar with network and OS security concepts with Network+ and LPIC1 certifications. Holder of 3rd place at the National Khwarizmi Youth Festival and 1st place at the Provincial Scientific Research Festival.
-
----
-
-## Technical Skills
-
-**Programming Languages:**
-`Python` · `JavaScript` · `HTML` · `CSS` · `SQL` · `Bash`
-
-**Backend & API:**
-`Flask` · `FastAPI` · `REST API` · `SQLite` · `Socket Programming`
-
-**Automation & Scraping:**
-`Selenium` · `BeautifulSoup` · `Requests` · `PyAutoGUI` · `pywinauto` · `pywin32` · `psutil` · `webdriver-manager`
-
-**AI & NLP:**
-`OpenAI API` · `Prompt Engineering` · `LLM` · `RAG` · `PyTorch` · `TensorFlow` · `Hazm` · `Pandas` · `NumPy` · `Matplotlib`
-
-**Security:**
-`Network+` · `LPIC1` · `Secure Coding` · `Log Analysis` · `Web Penetration Testing` · `Linux (Ubuntu)`
-
-**Tools:**
-`Git` · `GitHub` · `Docker` · `VS Code` · `WordPress`
-
----
-
-## Projects
-
-**Nasyar — Intelligent Automated Software Installer**
-Automated Windows software installation system with smart download source search, 100% automated installation, password-protected archive support, and Persian UI. 88% reduction in installation time.
-Tech: Python, Flask, Selenium, BeautifulSoup, psutil, pywin32, py7zr, OpenAI API
-Achievement: 3rd Place — National Khwarizmi Youth Festival 2025
-
-**CMDX Terminal — Terminal Simulator with AI Assistant**
-Modern terminal with Neon Dark UI, real Windows command execution, smart suggestion system, and built-in AI assistant.
-Tech: HTML, CSS, JavaScript, jQuery, Flask, subprocess, OpenAI API
-Achievement: 1st Place — Provincial Scientific Research Festival 2025
-
-**Intelligent Bot with Admin Panel**
-Chat bot connected to OpenAI API, with admin panel and SQLite database.
-Tech: Python, Flask, OpenAI API, SQLite
-Link: github.com/m-Researcher-Dev/bale-chat-bot
-
-**Freelance Job Web Scraping Tool**
-Automated scraper with Selenium and BeautifulSoup to extract freelance job listings.
-Tech: Python, Selenium, BeautifulSoup
-Link: github.com/m-Researcher-Dev/web-scraper-for-freelance-jobs
-
-**Port Scanner**
-Network port scanner with Socket Programming.
-Tech: Python, Socket
-Link: github.com/m-Researcher-Dev/port-scanner
-
-**Digikala Scraper**
-Product scraper for Digikala with Selenium and BeautifulSoup.
-Tech: Python, Selenium, BeautifulSoup
-
----
-
-## Honors
-
-3rd Place — National Khwarizmi Youth Festival — 2025
-1st Place — Provincial Scientific Research Festival — 2025
-
----
-
-## Education
-
-High School Diploma in Mathematics and Physics — 2024 to 2025
-
----
-
-## Contact
-
-Email: mohammadjavadizadi86@gmail.com
-Location: Zarand, Kerman, Iran
-Languages: Persian (Native), English (Intermediate)
-
----
+## `$ ./activity --realtime`
 
 <div align="center">
 
-## 🐍 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-Researcher-Dev&theme=github-compact&hide_border=true&area=true" width="100%" />
 
-<img src="https://raw.githubusercontent.com/m-Researcher-Dev/m-Researcher-Dev/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+## `$ ./languages`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Researcher-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+---
+
+## `$ cat currently.txt`
+
+```text
+🔭 Building      → Backend & Client/Server Systems
+
+🌱 Learning      → FastAPI · Databases · Docker · RAG
+
+🔐 Exploring     → Security · Networking · Secure Backend Design
+
+🤖 Researching   → LLM · RAG · AI-assisted Systems
+
+🎯 Goal          → Build useful systems, not just demos
+
+📦 Shipping      → Projects · Experiments · Open Source
+```
+
+---
+
+## `$ git log --oneline --all`
+
+```text
+building systems
+learning internals
+breaking things
+fixing them
+shipping again
+```
+
+---
+
+## `$ ./github --stats`
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/m-Researcher-Dev?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/m-Researcher-Dev?style=flat-square&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fm-Researcher-Dev)
+![Views](https://komarev.com/ghpvc/?username=m-Researcher-Dev&style=flat-square&color=58A6FF)
+
+</div>
+
+---
+
+## `$ ./snake --contribution`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-Researcher-Dev/m-Researcher-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-Researcher-Dev/m-Researcher-Dev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/m-Researcher-Dev/m-Researcher-Dev/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## `$ ./contact.sh`
+
+<div align="center">
+
+<a href="mailto:mohammadjavadizadi86@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/m-Researcher-Dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+```text
+Persian  → Native
+English  → Intermediate
+
+$ echo "Keep building."
+```
 
 </div>
