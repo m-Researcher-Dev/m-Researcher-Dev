@@ -44,7 +44,7 @@ tools:        [Git, Docker, Linux, VS Code]
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🥇 | **Nasyar** | Automated Windows software installer with AI-powered source search + Persian UI. **88% faster installs.** | `Python` `Flask` `Selenium` `OpenAI` |
+| 🥇 | **Nasbyar** | Automated Windows software installer with AI-powered source search + Persian UI. **88% faster installs.** | `Python` `Flask` `Selenium` `OpenAI` |
 | 🥈 | **CMDX Terminal** | Web-based terminal emulator with real command execution + AI assistant. | `Flask` `JavaScript` `jQuery` `OpenAI` |
 | 🤖 | **Bale Chat Bot** | Chat bot with OpenAI API + web admin panel. | `Flask` `SQLite` `OpenAI` |
 | 🕸️ | **Job Scraper** | Automated freelance job listings collector. | `Selenium` `BeautifulSoup` |
