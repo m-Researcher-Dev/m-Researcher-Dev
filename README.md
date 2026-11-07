@@ -17,8 +17,9 @@
 
 ```yaml
 name:     Mohammad Javad Izadi
-role:     Python Backend Developer
-focus:    [Backend Systems, REST APIs, Databases, Automation]
+role:     Python Backend Developer & Security Enthusiast
+award:    Khwarizmi National Youth Festival - National Rank Winner 🥇
+focus:    [Backend Systems, REST APIs, Automation, Cybersecurity]
 status:   Building · Learning · Shipping
 ```
 
@@ -33,8 +34,9 @@ languages:    [Python, SQL, JavaScript, Bash]
 frameworks:   [Flask, FastAPI]
 databases:    [SQLite, SQL]
 api:          [REST, JSON, Socket Programming]
-automation:   [Selenium, BeautifulSoup, Requests, PyAutoGUI]
+automation:   [Selenium, Playwright, BeautifulSoup, PyAutoGUI]
 ai:           [OpenAI API, LLM, RAG, Prompt Engineering]
+security:     [Network+, LPIC-1, CEH (In Progress)]
 tools:        [Git, Docker, Linux, VS Code]
 ```
 
@@ -44,7 +46,7 @@ tools:        [Git, Docker, Linux, VS Code]
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🥇 | **Nasbyar** | Automated Windows software installer with AI-powered source search + Persian UI. **88% faster installs.** | `Python` `Flask` `Selenium` `OpenAI` |
+| 🥇 | **Nasbyar (نصب‌یار)** | Automated Windows software installer with AI-powered search. **Khwarizmi National Award Winner.** | `Python` `Flask` `Selenium` `OpenAI` |
 | 🥈 | **CMDX Terminal** | Web-based terminal emulator with real command execution + AI assistant. | `Flask` `JavaScript` `jQuery` `OpenAI` |
 | 🤖 | **Bale Chat Bot** | Chat bot with OpenAI API + web admin panel. | `Flask` `SQLite` `OpenAI` |
 | 🕸️ | **Job Scraper** | Automated freelance job listings collector. | `Selenium` `BeautifulSoup` |
@@ -85,9 +87,9 @@ tools:        [Git, Docker, Linux, VS Code]
 
 ```text
 🔭 Building     → Backend systems with Flask + FastAPI
-🌱 Learning     → Databases · Docker · Async patterns
-🤖 Researching  → LLM integration · RAG pipelines
-🎯 Goal         → Build useful systems, not just demos
+🌱 Learning     → Cybersecurity (CEH) · Network Security · Async patterns
+🤖 Researching  → LLM integration · Security Automation
+🎯 Goal         → Build secure and reliable systems
 ```
 
 ---
